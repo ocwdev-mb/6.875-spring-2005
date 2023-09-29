@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "legacy_uid": "bbb5dd17-658b-bf5d-4881-2613376752a4",
+  "instructors": {
+    "content": [
+      "95cf5c21-4826-165c-f0aa-fa88861e5232"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d5eacb8e-b2b7-5f6c-ff82-65b1eb3d76b6",
+    "website": "6-875-cryptography-and-cryptanalysis-spring-2005"
+  },
+  "course_title": "Cryptography and Cryptanalysis",
+  "course_description": "This course features a rigorous introduction to modern cryptography, with an emphasis on the fundamental cryptographic primitives of public-key encryption, digital signatures, pseudo-random number generation, and basic protocols and their computational complexity requirements.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.875",
+  "course_image_thumbnail": {
+    "content": "b3d0a5e2-485c-9a19-6be5-fd0aa3975a9e",
+    "website": "6-875-cryptography-and-cryptanalysis-spring-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "04a6e6c1-93b2-4208-b735-cf6cdcd34f4a",
+  "site_short_id": "6.875-spring-2005",
+  "title": "Course Metadata"
+}
